@@ -2,7 +2,7 @@
 ---
 The Homework has three components to be delievered before 9AM: ⚠️
 - Practice with Class Defining.
-- Practice with Instance Constrcuting and Class Funcions.
+- Practice with Instance Constrcuting and Class Functions.
 - (Optional) Classes Challenge.
 > Note: You must save all your solution as `solution.kt` to be submitted before 9AM. ⚠️
 # Instructions 📋
@@ -23,7 +23,7 @@ How it works:
 
 Output:
 
-## Part II - Practice with Instance Constrcuting and Class Funcions.
+## Part II - Practice with Instance Constrcuting and Class Functions.
 ---
 ### Write a class named Book using primary constructor with following features:
 
