@@ -1,6 +1,6 @@
 # HW_Week2_Day1_DefiningClasses                                       
 ---
-The Home Work has three components to be delievered before 9AM: ⚠️
+The Homework has three components to be delievered before 9AM: ⚠️
 - Practice with Class Defining.
 - Practice with Instance Constrcuting and Class Funcions.
 - (Optional) Classes Challenge.
@@ -25,7 +25,7 @@ Output:
 
 ## Part II - Practice with Instance Constrcuting and Class Funcions.
 ---
-### Write a Kotlin class named Book using primary constructor with following features:
+### Write a class named Book using primary constructor with following features:
 
 Instance variables :
 - title for the title of book of type String.
